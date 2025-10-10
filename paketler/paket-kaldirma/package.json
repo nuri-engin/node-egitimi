@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemailer": "^4.4.0"
+    "nodemailer": "^7.0.7"
   },
   "devDependencies": {
     "gulp": "^3.9.1"
